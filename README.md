@@ -24,7 +24,7 @@ Derive and write a condition in a form of an equation for a point passing throug
 ## Exercise 2
 
 Write a program that, given three points $A(x_a, y_a)$, $B(x_b, y_b)$ and $C(x_c, y_c$) as an input,
-calculates if a point $C$ passing through the line $AB$.
+calculates if a point $C$ is passing through the line $AB$.
 
 You must use the formula from the exercise 1.
 
