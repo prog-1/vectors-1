@@ -13,7 +13,7 @@ $$
 
 Assume $t \in \mathbb{R}$.
 
-Derive and write a condition in a form of an equation for a point passing through a line.
+Derive and write a condition in a form of an equation for a line passing through a point.
 
 > Hint: The equation must not contain $t$. It must contain $p_x, p_y, a_x, a_y, v_x, v_y$ parameters only.
 
@@ -24,7 +24,7 @@ Derive and write a condition in a form of an equation for a point passing throug
 ## Exercise 2
 
 Write a program that, given three points $A(x_a, y_a)$, $B(x_b, y_b)$ and $C(x_c, y_c$) as an input,
-calculates if a point $C$ is passing through the line $AB$.
+calculates if the line $AB$ is passing through the point $C$.
 
 You must use the formula from the exercise 1.
 
