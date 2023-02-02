@@ -17,6 +17,10 @@ Derive and write a condition in a form of an equation for a point passing throug
 
 > Hint: The equation must not contain $t$. It must contain $p_x, p_y, a_x, a_y, v_x, v_y$ parameters only.
 
+### Example
+
+![](example.png)
+
 ## Exercise 2
 
 Write a program that, given three points $A(x_a, y_a)$, $B(x_b, y_b)$ and $C(x_c, y_c$) as an input,
